@@ -1,6 +1,6 @@
 # TODO:
 ## home.html
-- [ ] When Clicked on “Login”, it should redirect to “login.php”
+- [x] When Clicked on “Login”, it should redirect to “login.php”
 - [ ] When Clicked on “register”, it should redirect to “register.html”
 ## login.php
 - [ ] See both username and password are entered. If not, redirect to “home.html”
