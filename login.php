@@ -11,6 +11,7 @@
     $validCrentials = $username != '' && $pwd != '';
 
     if (!validCredentials) {
+        echo "Invalid!";
         header('Location: home.html');
          exit();
     } else {
